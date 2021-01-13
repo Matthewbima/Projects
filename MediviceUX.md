@@ -1,4 +1,4 @@
-#Medivice UX;
-by Adobe XD;
+#Medivice UX
+by Adobe XD
 
-[bit.ly/Medivice](https://bit.ly/Medivice);
+[bit.ly/Medivice](https://bit.ly/Medivice)
